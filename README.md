@@ -1,6 +1,8 @@
 # Classification-of-Normal-vs-Oral-Squamous-Cell-Carcinoma-OSCC-Cells 
 ## (This project was part of my Introduction to Machine Learning Course at Khalifa University)
 
+# DATESET LINK: https://data.mendeley.com/datasets/ftmp4cvtmb/1
+
 # Introduction
 
 In today's modern world, medical advancements are critical for early disease detection and treatment. Oral squamous cell carcinoma (OSCC), the seventh most common oral malignancy, annually affecting over 500,000 people, is a significant concern. OSCC is responsible for over 90% of oral cancer cases and has a high global mortality rate. 
